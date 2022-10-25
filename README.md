@@ -4,7 +4,7 @@ Hello my name is John Chavez. I am a happily married father of three, currently 
 ## Code 201 Reading Notes
 
 * [Reading 1](Reading-Notes/Reading1.md)
-* Reading 2
+* [Reading 2](Reading-Notes/Reading2.md)
 * Reading 3
 * Reading 4
 * Reading 5
