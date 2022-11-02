@@ -10,7 +10,7 @@ Hello my name is John Chavez. I am a happily married father of three, currently 
 * Reading 5
 * Reading 6
 * Reading 7
-* Reading 8
+* [Reading 8](Reading8.md)
 * Reading 9
 * Reading 10
 * Reading 11
