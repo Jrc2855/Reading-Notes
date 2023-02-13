@@ -40,6 +40,7 @@ Hello my name is John Chavez. I am currently living in North Carolina with my Wi
 ## Code 401 Advanced Software Development in Full-Stack JavaScript
 
 * [Prep: Data Structures and Algorithms](401-DSA.md)
+* [Prep: The Command Line](401-TCL.md)
 
 * Reading 1
 * Reading 2
