@@ -43,7 +43,7 @@ Hello my name is John Chavez. I am currently living in North Carolina with my Wi
 * [Prep: The Command Line](401-TCL.md)
 
 * [Reading 1](401-1.md)
-* Reading 2
+* [Reading 2](401-2.md)
 * Reading 3
 * Reading 4
 * Reading 5
