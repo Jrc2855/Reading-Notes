@@ -46,8 +46,8 @@ Hello my name is John Chavez. I am currently living in North Carolina with my Wi
 * [Reading 2](401-2.md)
 * [Reading 3](401-3.md)
 * [Reading 4](401-4.md)
-* Reading 5
-* Reading 6
+* [Reading 5](401-5.md)
+* [Reading 6](401-6.md)
 * Reading 7
 * Reading 8
 * Reading 9
