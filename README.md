@@ -60,5 +60,5 @@ Hello my name is John Chavez. I am currently living in North Carolina with my Wi
 * Reading 16
 * Reading 17
 * Reading 18
-* Reading 19
+* [Reading 19](401-19.md)
 * Reading 20
